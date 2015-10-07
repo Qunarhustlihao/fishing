@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gofishing:war">
+    <output-path>$PROJECT_DIR$/gofishing/target</output-path>
+    <root id="archive" name="fishing.war">
+      <element id="artifact" artifact-name="gofishing:war exploded" />
+    </root>
+  </artifact>
+</component>
