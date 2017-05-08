@@ -5,8 +5,8 @@
     <option name="formatter" value="ECLIPSE" />
     <option name="id" value="1430713399359" />
     <option name="name" value="default" />
-    <option name="pathToConfigFileJava" value="$USER_HOME$/Documents/xml/Qunar.xml" />
-    <option name="selectedJavaProfile" value="Qunar" />
+    <option name="pathToConfigFileJava" value="$USER_HOME$/Documents/xml/eclipse-java-google-style.xml" />
+    <option name="selectedJavaProfile" value="GoogleStyle" />
   </component>
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
